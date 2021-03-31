@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/JsonWebTokenExample/bin/Debug/netcoreapp3.1
+/JsonWebTokenExample/obj
